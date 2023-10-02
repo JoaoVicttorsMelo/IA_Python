@@ -35,3 +35,14 @@ Meritos totais a #hashtag-treinamentos sobre a ideia do projeto, eu só melhorei
 ## Contato
 
 Se você deseja entrar em contato, você pode me alcançar em [joaovicttorsilveiramelo@gmail.com](joaovicttorsilveiramelo@gmail.com).
+
+
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Atividades Recentes [![Time period](https://images.repography.com/42450861/JoaoVicttorsMelo/IA_Python/recent-activity/youGat5bVw9oyVMtW03c1TTvdA_9qF-FgBe-npIOnCM/WHjxwVPa_cg6ycrBD_hJUz9wzrIGXiqg4yRMMvngYTk_badge.svg)](https://repography.com)
+[![Timeline graph](https://images.repography.com/42450861/JoaoVicttorsMelo/IA_Python/recent-activity/youGat5bVw9oyVMtW03c1TTvdA_9qF-FgBe-npIOnCM/WHjxwVPa_cg6ycrBD_hJUz9wzrIGXiqg4yRMMvngYTk_timeline.svg)](https://github.com/JoaoVicttorsMelo/IA_Python/commits)
+[![Issue status graph](https://images.repography.com/42450861/JoaoVicttorsMelo/IA_Python/recent-activity/youGat5bVw9oyVMtW03c1TTvdA_9qF-FgBe-npIOnCM/WHjxwVPa_cg6ycrBD_hJUz9wzrIGXiqg4yRMMvngYTk_issues.svg)](https://github.com/JoaoVicttorsMelo/IA_Python/issues)
+[![Pull request status graph](https://images.repography.com/42450861/JoaoVicttorsMelo/IA_Python/recent-activity/youGat5bVw9oyVMtW03c1TTvdA_9qF-FgBe-npIOnCM/WHjxwVPa_cg6ycrBD_hJUz9wzrIGXiqg4yRMMvngYTk_prs.svg)](https://github.com/JoaoVicttorsMelo/IA_Python/pulls)
+[![Trending topics](https://images.repography.com/42450861/JoaoVicttorsMelo/IA_Python/recent-activity/youGat5bVw9oyVMtW03c1TTvdA_9qF-FgBe-npIOnCM/WHjxwVPa_cg6ycrBD_hJUz9wzrIGXiqg4yRMMvngYTk_words.svg)](https://github.com/JoaoVicttorsMelo/IA_Python/commits)
+[![Top contributors](https://images.repography.com/42450861/JoaoVicttorsMelo/IA_Python/recent-activity/youGat5bVw9oyVMtW03c1TTvdA_9qF-FgBe-npIOnCM/WHjxwVPa_cg6ycrBD_hJUz9wzrIGXiqg4yRMMvngYTk_users.svg)](https://github.com/JoaoVicttorsMelo/IA_Python/graphs/contributors)
+[![Activity map](https://images.repography.com/42450861/JoaoVicttorsMelo/IA_Python/recent-activity/youGat5bVw9oyVMtW03c1TTvdA_9qF-FgBe-npIOnCM/WHjxwVPa_cg6ycrBD_hJUz9wzrIGXiqg4yRMMvngYTk_map.svg)](https://github.com/JoaoVicttorsMelo/IA_Python/commits)
+
+
